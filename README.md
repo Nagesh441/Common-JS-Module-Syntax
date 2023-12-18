@@ -8,3 +8,4 @@ Import the function in the `importFunctionWithParameter.js` file.
 
 <b>Use Common JS module syntax</b>.
 # Common-JS-Module-Syntax
+# Common-JS-Module-Syntax
